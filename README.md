@@ -1,5 +1,5 @@
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=461e68&text=こんにちは、世界&section=header&reversal=false&textBg=false&fontAlign=50&fontAlignY=50&fontSize=20" /> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&color=461e68&text=こんにちは、世界！&section=header&reversal=false&textBg=false&fontAlign=50&fontAlignY=50&fontSize=20" /> 
 
 <div align="center">
   <p> Olá, Eu sou Guilherme！</p>
@@ -8,8 +8,9 @@
 <div align="center"  width="100%">
 <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&center=true&width=480&lines=Bem+vindo+ao+meu+GITHUB!" alt="Typing SVG" />
 </div>  
+
 <div align="center"  width="100%">
-  Meu objetivo é me tornar um programador Java de destaque. Atualmente, curso Análise e Desenvolvimento de Sistemas. Transformando conhecimento em código que faz a diferença. De estudante dedicado para o mundo da programação 
+Meu objetivo é me tornar um programador Java de destaque. Atualmente, curso Análise e Desenvolvimento de Sistemas. Transformando conhecimento em código que faz a diferença.De estudante dedicado para o mundo da programação 
 </div>
 
 <img align="center"  width="100%" src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=10&duration=1&pause=100000000000000&center=true&width=480&lines=Linguagens" alt="Typing SVG" />
@@ -27,10 +28,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
 </div>
 
+<br>
+<br>
+<br>
 
-
-
-
+<div align="center"> 
+  <p align="center">
+    <samp> 
+        ⟖<a href="https://www.linkedin.com/in/
+        guilherme-crivelaro-57a819219"> Linkedin </a>⟗
+        <a href="https://www.instagram.com/crivelaro_gui/">Instagram </a>⟕ 
+    </samp>
+  </p>
+</div>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=461e68&section=footer&reversal=false&textBg=false&fontAlign=50&fontAlignY=50&fontSize=20" />
