@@ -9,9 +9,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&center=true&width=480&lines=Bem+vindo+ao+meu+GITHUB!" alt="Typing SVG" />
 </div>  
 
-<div align="center"  width="100%">
-Meu objetivo é me tornar um programador Java de destaque. Atualmente, curso Análise e Desenvolvimento de Sistemas. Transformando conhecimento em código que faz a diferença.De estudante dedicado para o mundo da programação 
+<div>
+  Meu objetivo é me tornar um programador Java de destaque. Atualmente, curso Análise e Desenvolvimento de Sistemas.
+  Transformando conhecimento em código que faz a diferença. De estudante dedicado para o mundo da programação.
 </div>
+
+
 
 <img align="center"  width="100%" src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=10&duration=1&pause=100000000000000&center=true&width=480&lines=Linguagens" alt="Typing SVG" />
 <div align="center"  width="100%">
