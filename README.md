@@ -25,7 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="MongoDB" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="40" alt="Spring" style="margin: 10px;" />
-  <img src="https://seulink.com/seuicone.png" alt="Ícone" width="80" />
+  <img src="https://github.com/user-attachments/assets/8e621746-3332-4956-9d10-ad752cf42355" alt="Ícone" width="80" />
+
 
 </div>
 
