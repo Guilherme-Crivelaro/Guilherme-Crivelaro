@@ -5,10 +5,6 @@
   <p> Olá, Eu sou Guilherme！</p>
 </div>
 
-<div align="center"  width="100%">
-<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&center=true&width=480&lines=Bem+vindo+ao+meu+GITHUB!" alt="Typing SVG" />
-</div>  
-
 <div>
   Meu objetivo é me tornar um programador Java de destaque. Atualmente, curso Análise e Desenvolvimento de Sistemas.
   Transformando conhecimento em código que faz a diferença. De estudante dedicado para o mundo da programação.
