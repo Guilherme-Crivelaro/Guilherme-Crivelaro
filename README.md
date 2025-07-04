@@ -18,10 +18,10 @@
 
 <img align="center"  width="100%" src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=10&duration=1&pause=100000000000000&center=true&width=480&lines=Linguagens" alt="Typing SVG" />
 <div align="center"  width="100%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="40" alt="IntelliJ IDEA" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" style="margin: 10px;" />
 </div>
 
 <img align="center"  width="100%" src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=8&duration=1&pause=100000000000000&center=true&width=480&lines=Banco+de+Dados-Frameworks" alt="Typing SVG" />
