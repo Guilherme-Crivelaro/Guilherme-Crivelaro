@@ -16,8 +16,6 @@
 <div align="center"  width="100%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="40" alt="IntelliJ IDEA" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" style="margin: 10px;" />
   <img src="https://github.com/user-attachments/assets/8e621746-3332-4956-9d10-ad752cf42355"  alt="Obsidian" width="40" height="40" style="margin: 10px;"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" width="40" alt="Postman" style="margin: 10px;" />
 
