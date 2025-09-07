@@ -19,8 +19,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" width="40" alt="Postman" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" width="40" alt="Swagger" style="margin: 10px;" />
   <img src="https://github.com/user-attachments/assets/8e621746-3332-4956-9d10-ad752cf42355"  alt="Obsidian" width="40" height="40" style="margin: 10px;"  />
-  <img <img src="docker.png" 
-     alt="Docker" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin: 10px;" />
+
 
 </div>
 
