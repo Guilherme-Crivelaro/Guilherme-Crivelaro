@@ -18,8 +18,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" width="40" alt="Postman" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" width="40" alt="Swagger" style="margin: 10px;" />
-  <img src="https://github.com/user-attachments/assets/8e621746-3332-4956-9d10-ad752cf42355"  alt="Obsidian" width="40" height="40" style="margin: 10px;"  /><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" 
+  <img src="https://github.com/user-attachments/assets/8e621746-3332-4956-9d10-ad752cf42355"  alt="Obsidian" width="40" height="40" style="margin: 10px;"  />
+  <img <img src="docker.png" 
      alt="Docker" width="40" height="40" style="margin: 10px;" />
+
 </div>
 
 <img align="center"  width="100%" src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=8&duration=1&pause=100000000000000&center=true&width=480&lines=Banco+de+Dados-Frameworks" alt="Typing SVG" />
